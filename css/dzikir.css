@@ -1,0 +1,7 @@
+@font-face {
+    font-family:'islamicicon';
+    src:url('../fonts/font_islamic_color.ttf')
+}
+.arabic-sign{
+    font: 1em islamicicon;
+}
